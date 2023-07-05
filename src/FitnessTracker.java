@@ -12,6 +12,5 @@ public class FitnessTracker {
         user2.setEmail("e11@example.com");
         user2.weight = 90;
         user2.printAccountInfo();
-
     }
 }
