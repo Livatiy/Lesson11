@@ -56,5 +56,4 @@ public class User {
     void printAccountInfo() {
         System.out.println("Ім'я: " + name + ", Дата народження: " + dayOfBirth + "/" + monthOfBirth + "/" + yearOfBirth + ", Вік: " + age + ", E-mail: " + email + ", Телефон: " + phone + ", Прізвище: " + surname + ", Вага: " + weight + ", Тиск: " + pressure + ", Шаги за день: " + stepsPerDay);
     }
-
 }
